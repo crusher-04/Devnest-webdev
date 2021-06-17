@@ -1,0 +1,40 @@
+body{
+    background: url(https://thewallpaper.co/wp-content/uploads/2020/08/pattern-patterns-cool-display-windows-1920x1200-1.jpg);
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20200703/pngtree-mathematics-education-calculator-ruler-hand-drawn-background-image_340649.jpg);
+    text-align: center;
+    align-items: center;
+    box-shadow: black 10px 10px 10px;    
+    width: 400px;
+    margin: auto;
+    height: 500px;
+}
+
+table{
+    margin: auto;
+    margin-top: 50px;
+}
+button{
+    font-size: 20px;
+    width: 50px;
+    height: 44px;
+    font-family: 'orbitron',sans-serif;
+    box-shadow: black 8px 7px 10px;   
+    transform: translate(blue);
+}
+button:hover{
+    transition: all 5000ms linear;
+}
+h1{
+    padding-top: 25px;
+    font-size: 32px;
+    font-family: 'Orbitron',sans-serif;
+}
+input{
+   font-size: 25px;
+   box-shadow: black 7px 7px 10px;   
+   width: 190px;
+}
